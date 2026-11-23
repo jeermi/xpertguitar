@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Guitare électrique blanche + médiator jaune, dans la zone sûre (66dp centrés) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- manche -->
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="5" android:strokeLineCap="round"
+        android:pathData="M50,58 L72,32" />
+    <!-- tête -->
+    <path android:fillColor="#FFFFFF" android:pathData="M69,24 L78,24 L78,34 L69,34 Z" />
+    <!-- corps -->
+    <path android:fillColor="#FFFFFF" android:pathData="M30,68 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M42,58 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0 Z" />
+    <!-- micros -->
+    <path android:strokeColor="#1E2054" android:strokeWidth="2.6" android:strokeLineCap="round" android:pathData="M39,64 L46,70" />
+    <path android:strokeColor="#1E2054" android:strokeWidth="2.6" android:strokeLineCap="round" android:pathData="M44,58 L51,64" />
+    <!-- médiator -->
+    <path android:fillColor="#FFAB19" android:pathData="M66,48 L77,48 L71.5,59 Z" />
+</vector>

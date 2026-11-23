@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Charte XPert (site jeermi.github.io/xpert et applis XPert 3e / 2de) -->
+    <color name="xpert_marine">#1E2054</color>
+    <color name="xpert_orange">#E8501E</color>
+    <color name="xpert_jaune">#FFAB19</color>
+    <color name="xpert_fond">#12133A</color>
+</resources>
